@@ -16,7 +16,7 @@ This is a simple task management application built with Laravel by Wiron R. The 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/task-manager.git
+    git clone https://github.com/Rwiron/simple-task-management-
     cd task-manager
     ```
 
